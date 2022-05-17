@@ -1,6 +1,5 @@
-<div style="text: align-center">
-
-  # dotfiles
+<div style="text: align-center;">
+  <h1>Dotfiles></h1>
 </div>
 
 <hr>
